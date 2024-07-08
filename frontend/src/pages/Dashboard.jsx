@@ -5,7 +5,7 @@ import Grid from '@mui/material/Grid';
 import Paper from '@mui/material/Paper';
 import Link from '@mui/material/Link';
 import Chart from '../components/Chart';
-import Deposits from '../components/Deposits';
+import Deposits from '../components/Korban';
 import Data from '../components/Data';
 
 import 'bootstrap/dist/css/bootstrap.min.css';

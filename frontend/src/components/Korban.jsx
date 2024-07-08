@@ -4,7 +4,7 @@ import Title from './Title';
 
 import api from '../api';
 
-export default function Deposits() {
+export default function Korban() {
   const [totalKorbanJiwa, setTotalKorbanJiwa] = useState(0);
 
   useEffect(() => {
