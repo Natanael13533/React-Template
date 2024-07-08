@@ -1,0 +1,1052 @@
+[
+	{
+		"wilayah": "Bengkulu",
+		"total_bencana": 696,
+		"korban_luka": 5459,
+		"kobran_jiwa": 108,
+		"date": "2023-09-27 21:40:37"
+	},
+	{
+		"wilayah": "Serang",
+		"total_bencana": 461,
+		"korban_luka": 3854,
+		"kobran_jiwa": 199,
+		"date": "2025-02-13 03:08:00"
+	},
+	{
+		"wilayah": "Denpasar",
+		"total_bencana": 919,
+		"korban_luka": 5795,
+		"kobran_jiwa": 121,
+		"date": "2024-04-29 15:12:54"
+	},
+	{
+		"wilayah": "Sawahlunto",
+		"total_bencana": 348,
+		"korban_luka": 6026,
+		"kobran_jiwa": 181,
+		"date": "2024-04-08 01:41:40"
+	},
+	{
+		"wilayah": "Palu",
+		"total_bencana": 994,
+		"korban_luka": 7871,
+		"kobran_jiwa": 141,
+		"date": "2024-10-02 01:29:15"
+	},
+	{
+		"wilayah": "Palangka Raya",
+		"total_bencana": 614,
+		"korban_luka": 5600,
+		"kobran_jiwa": 147,
+		"date": "2024-11-05 13:17:34"
+	},
+	{
+		"wilayah": "Singkawang",
+		"total_bencana": 355,
+		"korban_luka": 4095,
+		"kobran_jiwa": 182,
+		"date": "2024-11-17 06:21:11"
+	},
+	{
+		"wilayah": "Mamuju",
+		"total_bencana": 917,
+		"korban_luka": 8954,
+		"kobran_jiwa": 191,
+		"date": "2023-08-05 03:04:02"
+	},
+	{
+		"wilayah": "Mamuju",
+		"total_bencana": 307,
+		"korban_luka": 8675,
+		"kobran_jiwa": 126,
+		"date": "2024-01-17 21:23:28"
+	},
+	{
+		"wilayah": "Palangka Raya",
+		"total_bencana": 991,
+		"korban_luka": 3843,
+		"kobran_jiwa": 163,
+		"date": "2023-07-21 16:33:27"
+	},
+	{
+		"wilayah": "Surabaya",
+		"total_bencana": 963,
+		"korban_luka": 7612,
+		"kobran_jiwa": 81,
+		"date": "2023-08-27 04:04:42"
+	},
+	{
+		"wilayah": "Sungai Penuh",
+		"total_bencana": 733,
+		"korban_luka": 9691,
+		"kobran_jiwa": 183,
+		"date": "2025-01-01 21:46:33"
+	},
+	{
+		"wilayah": "Manokwari",
+		"total_bencana": 692,
+		"korban_luka": 7344,
+		"kobran_jiwa": 169,
+		"date": "2024-05-20 09:49:34"
+	},
+	{
+		"wilayah": "Bukittinggi",
+		"total_bencana": 339,
+		"korban_luka": 4829,
+		"kobran_jiwa": 62,
+		"date": "2024-10-21 10:52:41"
+	},
+	{
+		"wilayah": "Yogyakarta",
+		"total_bencana": 778,
+		"korban_luka": 10000,
+		"kobran_jiwa": 98,
+		"date": "2023-11-05 03:35:18"
+	},
+	{
+		"wilayah": "Tual",
+		"total_bencana": 959,
+		"korban_luka": 3652,
+		"kobran_jiwa": 191,
+		"date": "2024-12-19 21:42:22"
+	},
+	{
+		"wilayah": "Depok",
+		"total_bencana": 880,
+		"korban_luka": 8284,
+		"kobran_jiwa": 123,
+		"date": "2025-04-11 00:08:02"
+	},
+	{
+		"wilayah": "Banjarbaru",
+		"total_bencana": 507,
+		"korban_luka": 5208,
+		"kobran_jiwa": 117,
+		"date": "2023-09-20 22:06:07"
+	},
+	{
+		"wilayah": "Tanjung Pinang",
+		"total_bencana": 988,
+		"korban_luka": 9790,
+		"kobran_jiwa": 83,
+		"date": "2025-01-03 16:55:10"
+	},
+	{
+		"wilayah": "Banjar",
+		"total_bencana": 659,
+		"korban_luka": 5084,
+		"kobran_jiwa": 55,
+		"date": "2025-04-01 01:41:56"
+	},
+	{
+		"wilayah": "Palembang",
+		"total_bencana": 730,
+		"korban_luka": 6435,
+		"kobran_jiwa": 185,
+		"date": "2023-09-15 06:35:15"
+	},
+	{
+		"wilayah": "Pekanbaru",
+		"total_bencana": 336,
+		"korban_luka": 9032,
+		"kobran_jiwa": 109,
+		"date": "2025-02-18 05:59:25"
+	},
+	{
+		"wilayah": "Tidore",
+		"total_bencana": 523,
+		"korban_luka": 5390,
+		"kobran_jiwa": 139,
+		"date": "2023-12-07 22:25:22"
+	},
+	{
+		"wilayah": "Kotamobagu",
+		"total_bencana": 956,
+		"korban_luka": 9171,
+		"kobran_jiwa": 166,
+		"date": "2025-04-06 12:21:36"
+	},
+	{
+		"wilayah": "Ambon",
+		"total_bencana": 439,
+		"korban_luka": 8656,
+		"kobran_jiwa": 199,
+		"date": "2023-11-12 06:27:52"
+	},
+	{
+		"wilayah": "Banda Aceh",
+		"total_bencana": 540,
+		"korban_luka": 7318,
+		"kobran_jiwa": 178,
+		"date": "2025-01-24 13:41:03"
+	},
+	{
+		"wilayah": "Mamuju",
+		"total_bencana": 350,
+		"korban_luka": 8007,
+		"kobran_jiwa": 175,
+		"date": "2024-06-28 10:45:31"
+	},
+	{
+		"wilayah": "Tomohon",
+		"total_bencana": 942,
+		"korban_luka": 8640,
+		"kobran_jiwa": 92,
+		"date": "2024-09-03 21:20:05"
+	},
+	{
+		"wilayah": "Semarang",
+		"total_bencana": 533,
+		"korban_luka": 4430,
+		"kobran_jiwa": 72,
+		"date": "2025-05-20 20:36:15"
+	},
+	{
+		"wilayah": "Jayapura",
+		"total_bencana": 634,
+		"korban_luka": 7596,
+		"kobran_jiwa": 157,
+		"date": "2024-09-12 00:16:43"
+	},
+	{
+		"wilayah": "Tanjung Pinang",
+		"total_bencana": 962,
+		"korban_luka": 3065,
+		"kobran_jiwa": 141,
+		"date": "2023-07-16 01:00:16"
+	},
+	{
+		"wilayah": "Kendari",
+		"total_bencana": 456,
+		"korban_luka": 6165,
+		"kobran_jiwa": 175,
+		"date": "2024-04-10 02:31:39"
+	},
+	{
+		"wilayah": "Pariaman",
+		"total_bencana": 897,
+		"korban_luka": 9982,
+		"kobran_jiwa": 120,
+		"date": "2024-08-07 01:58:02"
+	},
+	{
+		"wilayah": "Tanjung Pinang",
+		"total_bencana": 645,
+		"korban_luka": 6973,
+		"kobran_jiwa": 172,
+		"date": "2025-05-06 03:40:38"
+	},
+	{
+		"wilayah": "Dumai",
+		"total_bencana": 876,
+		"korban_luka": 3750,
+		"kobran_jiwa": 67,
+		"date": "2023-08-05 21:53:39"
+	},
+	{
+		"wilayah": "Yogyakarta",
+		"total_bencana": 494,
+		"korban_luka": 4393,
+		"kobran_jiwa": 143,
+		"date": "2024-04-21 16:36:41"
+	},
+	{
+		"wilayah": "Singkawang",
+		"total_bencana": 843,
+		"korban_luka": 5808,
+		"kobran_jiwa": 175,
+		"date": "2023-12-16 19:15:17"
+	},
+	{
+		"wilayah": "Tanjung Pinang",
+		"total_bencana": 348,
+		"korban_luka": 8264,
+		"kobran_jiwa": 160,
+		"date": "2024-01-07 15:04:01"
+	},
+	{
+		"wilayah": "Ternate",
+		"total_bencana": 797,
+		"korban_luka": 4637,
+		"kobran_jiwa": 105,
+		"date": "2024-08-22 23:05:55"
+	},
+	{
+		"wilayah": "Denpasar",
+		"total_bencana": 579,
+		"korban_luka": 4430,
+		"kobran_jiwa": 157,
+		"date": "2024-11-14 14:25:33"
+	},
+	{
+		"wilayah": "Pangkalpinang",
+		"total_bencana": 832,
+		"korban_luka": 7130,
+		"kobran_jiwa": 145,
+		"date": "2024-07-24 15:58:55"
+	},
+	{
+		"wilayah": "Palembang",
+		"total_bencana": 702,
+		"korban_luka": 6911,
+		"kobran_jiwa": 157,
+		"date": "2024-01-05 03:35:59"
+	},
+	{
+		"wilayah": "Bogor",
+		"total_bencana": 588,
+		"korban_luka": 3368,
+		"kobran_jiwa": 58,
+		"date": "2024-02-15 17:21:33"
+	},
+	{
+		"wilayah": "Surabaya",
+		"total_bencana": 925,
+		"korban_luka": 9454,
+		"kobran_jiwa": 113,
+		"date": "2025-05-27 14:05:32"
+	},
+	{
+		"wilayah": "Banjarbaru",
+		"total_bencana": 724,
+		"korban_luka": 7743,
+		"kobran_jiwa": 78,
+		"date": "2024-09-24 13:27:51"
+	},
+	{
+		"wilayah": "Palembang",
+		"total_bencana": 590,
+		"korban_luka": 8009,
+		"kobran_jiwa": 132,
+		"date": "2025-04-30 09:48:07"
+	},
+	{
+		"wilayah": "Palu",
+		"total_bencana": 947,
+		"korban_luka": 9534,
+		"kobran_jiwa": 140,
+		"date": "2024-02-01 17:50:54"
+	},
+	{
+		"wilayah": "Padang Panjang",
+		"total_bencana": 354,
+		"korban_luka": 8471,
+		"kobran_jiwa": 78,
+		"date": "2024-05-18 10:23:47"
+	},
+	{
+		"wilayah": "Jayapura",
+		"total_bencana": 879,
+		"korban_luka": 8571,
+		"kobran_jiwa": 64,
+		"date": "2024-07-22 15:08:09"
+	},
+	{
+		"wilayah": "Ternate",
+		"total_bencana": 932,
+		"korban_luka": 6384,
+		"kobran_jiwa": 64,
+		"date": "2024-05-26 14:41:40"
+	},
+	{
+		"wilayah": "Tomohon",
+		"total_bencana": 597,
+		"korban_luka": 4867,
+		"kobran_jiwa": 163,
+		"date": "2024-01-04 21:23:40"
+	},
+	{
+		"wilayah": "Jayapura",
+		"total_bencana": 979,
+		"korban_luka": 3348,
+		"kobran_jiwa": 81,
+		"date": "2025-04-07 02:37:11"
+	},
+	{
+		"wilayah": "Pangkalpinang",
+		"total_bencana": 827,
+		"korban_luka": 3066,
+		"kobran_jiwa": 107,
+		"date": "2023-10-03 15:52:51"
+	},
+	{
+		"wilayah": "Tarakan",
+		"total_bencana": 787,
+		"korban_luka": 5681,
+		"kobran_jiwa": 167,
+		"date": "2024-09-12 08:31:01"
+	},
+	{
+		"wilayah": "Batu",
+		"total_bencana": 855,
+		"korban_luka": 7399,
+		"kobran_jiwa": 85,
+		"date": "2025-05-26 06:35:15"
+	},
+	{
+		"wilayah": "Banjarmasin",
+		"total_bencana": 946,
+		"korban_luka": 4938,
+		"kobran_jiwa": 104,
+		"date": "2023-09-06 09:07:17"
+	},
+	{
+		"wilayah": "Yogyakarta",
+		"total_bencana": 418,
+		"korban_luka": 6718,
+		"kobran_jiwa": 148,
+		"date": "2025-05-07 05:13:29"
+	},
+	{
+		"wilayah": "Surabaya",
+		"total_bencana": 832,
+		"korban_luka": 9099,
+		"kobran_jiwa": 59,
+		"date": "2023-10-07 05:18:00"
+	},
+	{
+		"wilayah": "Sungai Penuh",
+		"total_bencana": 975,
+		"korban_luka": 8890,
+		"kobran_jiwa": 53,
+		"date": "2024-05-15 00:19:55"
+	},
+	{
+		"wilayah": "Kupang",
+		"total_bencana": 485,
+		"korban_luka": 6779,
+		"kobran_jiwa": 59,
+		"date": "2025-06-10 23:02:16"
+	},
+	{
+		"wilayah": "Jayapura",
+		"total_bencana": 714,
+		"korban_luka": 7299,
+		"kobran_jiwa": 71,
+		"date": "2025-01-26 19:06:02"
+	},
+	{
+		"wilayah": "Gorontalo",
+		"total_bencana": 344,
+		"korban_luka": 4948,
+		"kobran_jiwa": 119,
+		"date": "2024-05-19 09:14:27"
+	},
+	{
+		"wilayah": "Bandar Lampung",
+		"total_bencana": 987,
+		"korban_luka": 6573,
+		"kobran_jiwa": 133,
+		"date": "2024-10-28 20:55:51"
+	},
+	{
+		"wilayah": "Semarang",
+		"total_bencana": 968,
+		"korban_luka": 4927,
+		"kobran_jiwa": 199,
+		"date": "2025-01-31 07:59:09"
+	},
+	{
+		"wilayah": "Makassar",
+		"total_bencana": 798,
+		"korban_luka": 6416,
+		"kobran_jiwa": 126,
+		"date": "2023-11-03 14:41:11"
+	},
+	{
+		"wilayah": "Jayapura",
+		"total_bencana": 660,
+		"korban_luka": 9154,
+		"kobran_jiwa": 50,
+		"date": "2024-07-21 13:06:37"
+	},
+	{
+		"wilayah": "Denpasar",
+		"total_bencana": 390,
+		"korban_luka": 6583,
+		"kobran_jiwa": 158,
+		"date": "2025-05-06 07:43:58"
+	},
+	{
+		"wilayah": "Gorontalo",
+		"total_bencana": 752,
+		"korban_luka": 3319,
+		"kobran_jiwa": 187,
+		"date": "2023-08-03 14:57:20"
+	},
+	{
+		"wilayah": "Serang",
+		"total_bencana": 803,
+		"korban_luka": 3079,
+		"kobran_jiwa": 79,
+		"date": "2023-09-26 22:58:52"
+	},
+	{
+		"wilayah": "Manokwari",
+		"total_bencana": 356,
+		"korban_luka": 6483,
+		"kobran_jiwa": 150,
+		"date": "2023-12-19 18:53:49"
+	},
+	{
+		"wilayah": "Sungai Penuh",
+		"total_bencana": 602,
+		"korban_luka": 8506,
+		"kobran_jiwa": 182,
+		"date": "2025-05-05 21:10:11"
+	},
+	{
+		"wilayah": "Manokwari",
+		"total_bencana": 925,
+		"korban_luka": 9151,
+		"kobran_jiwa": 161,
+		"date": "2024-11-10 04:37:07"
+	},
+	{
+		"wilayah": "Palangka Raya",
+		"total_bencana": 495,
+		"korban_luka": 3281,
+		"kobran_jiwa": 60,
+		"date": "2024-08-07 04:54:59"
+	},
+	{
+		"wilayah": "Palembang",
+		"total_bencana": 320,
+		"korban_luka": 4256,
+		"kobran_jiwa": 84,
+		"date": "2024-09-24 16:10:25"
+	},
+	{
+		"wilayah": "Tanjung Pinang",
+		"total_bencana": 655,
+		"korban_luka": 3864,
+		"kobran_jiwa": 146,
+		"date": "2025-06-29 21:21:07"
+	},
+	{
+		"wilayah": "South Jakarta",
+		"total_bencana": 723,
+		"korban_luka": 6725,
+		"kobran_jiwa": 195,
+		"date": "2025-02-23 05:52:30"
+	},
+	{
+		"wilayah": "Ternate",
+		"total_bencana": 335,
+		"korban_luka": 6904,
+		"kobran_jiwa": 178,
+		"date": "2024-11-07 21:52:27"
+	},
+	{
+		"wilayah": "Tasikmalaya",
+		"total_bencana": 335,
+		"korban_luka": 5773,
+		"kobran_jiwa": 85,
+		"date": "2025-02-10 20:09:27"
+	},
+	{
+		"wilayah": "East Jakarta",
+		"total_bencana": 340,
+		"korban_luka": 7648,
+		"kobran_jiwa": 119,
+		"date": "2024-04-22 07:38:56"
+	},
+	{
+		"wilayah": "Yogyakarta",
+		"total_bencana": 689,
+		"korban_luka": 3492,
+		"kobran_jiwa": 159,
+		"date": "2025-05-11 14:59:43"
+	},
+	{
+		"wilayah": "Banjarmasin",
+		"total_bencana": 375,
+		"korban_luka": 4783,
+		"kobran_jiwa": 56,
+		"date": "2025-01-06 10:46:40"
+	},
+	{
+		"wilayah": "Serang",
+		"total_bencana": 645,
+		"korban_luka": 3039,
+		"kobran_jiwa": 96,
+		"date": "2025-02-02 22:39:37"
+	},
+	{
+		"wilayah": "Dumai",
+		"total_bencana": 529,
+		"korban_luka": 7196,
+		"kobran_jiwa": 100,
+		"date": "2023-10-25 06:19:57"
+	},
+	{
+		"wilayah": "Mataram",
+		"total_bencana": 820,
+		"korban_luka": 6972,
+		"kobran_jiwa": 64,
+		"date": "2023-08-20 19:12:02"
+	},
+	{
+		"wilayah": "Tidore",
+		"total_bencana": 336,
+		"korban_luka": 7479,
+		"kobran_jiwa": 102,
+		"date": "2023-12-26 21:58:21"
+	},
+	{
+		"wilayah": "Banjarmasin",
+		"total_bencana": 579,
+		"korban_luka": 8690,
+		"kobran_jiwa": 56,
+		"date": "2025-03-22 18:17:15"
+	},
+	{
+		"wilayah": "Denpasar",
+		"total_bencana": 562,
+		"korban_luka": 6388,
+		"kobran_jiwa": 190,
+		"date": "2025-02-05 00:44:43"
+	},
+	{
+		"wilayah": "Tanjung Pinang",
+		"total_bencana": 638,
+		"korban_luka": 7302,
+		"kobran_jiwa": 146,
+		"date": "2025-05-18 01:07:13"
+	},
+	{
+		"wilayah": "Blitar",
+		"total_bencana": 602,
+		"korban_luka": 9704,
+		"kobran_jiwa": 89,
+		"date": "2025-05-08 23:32:37"
+	},
+	{
+		"wilayah": "Singkawang",
+		"total_bencana": 370,
+		"korban_luka": 4419,
+		"kobran_jiwa": 137,
+		"date": "2024-07-16 02:07:56"
+	},
+	{
+		"wilayah": "Yogyakarta",
+		"total_bencana": 679,
+		"korban_luka": 4535,
+		"kobran_jiwa": 117,
+		"date": "2024-10-18 11:26:47"
+	},
+	{
+		"wilayah": "Blitar",
+		"total_bencana": 928,
+		"korban_luka": 9533,
+		"kobran_jiwa": 164,
+		"date": "2023-09-29 05:43:41"
+	},
+	{
+		"wilayah": "Serang",
+		"total_bencana": 605,
+		"korban_luka": 3397,
+		"kobran_jiwa": 87,
+		"date": "2024-03-31 21:58:12"
+	},
+	{
+		"wilayah": "Mataram",
+		"total_bencana": 785,
+		"korban_luka": 7343,
+		"kobran_jiwa": 196,
+		"date": "2023-10-17 22:10:48"
+	},
+	{
+		"wilayah": "Serang",
+		"total_bencana": 567,
+		"korban_luka": 4736,
+		"kobran_jiwa": 79,
+		"date": "2023-10-24 15:27:25"
+	},
+	{
+		"wilayah": "Parepare",
+		"total_bencana": 565,
+		"korban_luka": 3206,
+		"kobran_jiwa": 179,
+		"date": "2025-01-09 12:49:49"
+	},
+	{
+		"wilayah": "Bima",
+		"total_bencana": 978,
+		"korban_luka": 7032,
+		"kobran_jiwa": 157,
+		"date": "2024-02-15 13:07:45"
+	},
+	{
+		"wilayah": "Palangka Raya",
+		"total_bencana": 575,
+		"korban_luka": 7596,
+		"kobran_jiwa": 122,
+		"date": "2024-08-22 17:07:20"
+	},
+	{
+		"wilayah": "Baubau",
+		"total_bencana": 475,
+		"korban_luka": 3999,
+		"kobran_jiwa": 157,
+		"date": "2025-02-13 13:35:22"
+	},
+	{
+		"wilayah": "Jayapura",
+		"total_bencana": 903,
+		"korban_luka": 9408,
+		"kobran_jiwa": 169,
+		"date": "2023-08-19 16:50:44"
+	},
+	{
+		"wilayah": "Kendari",
+		"total_bencana": 768,
+		"korban_luka": 8667,
+		"kobran_jiwa": 190,
+		"date": "2023-08-03 20:55:24"
+	},
+	{
+		"wilayah": "Banda Aceh",
+		"total_bencana": 350,
+		"korban_luka": 5066,
+		"kobran_jiwa": 101,
+		"date": "2023-10-02 03:03:39"
+	},
+	{
+		"wilayah": "Kotamobagu",
+		"total_bencana": 371,
+		"korban_luka": 5819,
+		"kobran_jiwa": 190,
+		"date": "2024-12-24 07:09:26"
+	},
+	{
+		"wilayah": "Yogyakarta",
+		"total_bencana": 843,
+		"korban_luka": 6477,
+		"kobran_jiwa": 124,
+		"date": "2024-02-13 15:17:35"
+	},
+	{
+		"wilayah": "Kotamobagu",
+		"total_bencana": 849,
+		"korban_luka": 5738,
+		"kobran_jiwa": 111,
+		"date": "2023-07-27 02:17:44"
+	},
+	{
+		"wilayah": "Sungai Penuh",
+		"total_bencana": 634,
+		"korban_luka": 6104,
+		"kobran_jiwa": 157,
+		"date": "2024-10-09 12:23:54"
+	},
+	{
+		"wilayah": "Mamuju",
+		"total_bencana": 360,
+		"korban_luka": 4585,
+		"kobran_jiwa": 141,
+		"date": "2024-09-12 02:06:20"
+	},
+	{
+		"wilayah": "Mamuju",
+		"total_bencana": 634,
+		"korban_luka": 6994,
+		"kobran_jiwa": 186,
+		"date": "2023-11-10 13:40:48"
+	},
+	{
+		"wilayah": "Banjarmasin",
+		"total_bencana": 881,
+		"korban_luka": 8608,
+		"kobran_jiwa": 87,
+		"date": "2023-12-05 04:42:09"
+	},
+	{
+		"wilayah": "Pangkalpinang",
+		"total_bencana": 447,
+		"korban_luka": 6711,
+		"kobran_jiwa": 142,
+		"date": "2023-12-09 23:19:54"
+	},
+	{
+		"wilayah": "Banjarbaru",
+		"total_bencana": 564,
+		"korban_luka": 4654,
+		"kobran_jiwa": 77,
+		"date": "2024-10-24 22:46:19"
+	},
+	{
+		"wilayah": "Payakumbuh",
+		"total_bencana": 897,
+		"korban_luka": 3402,
+		"kobran_jiwa": 193,
+		"date": "2023-12-17 09:45:16"
+	},
+	{
+		"wilayah": "Yogyakarta",
+		"total_bencana": 346,
+		"korban_luka": 6731,
+		"kobran_jiwa": 54,
+		"date": "2025-03-19 20:45:36"
+	},
+	{
+		"wilayah": "Manado",
+		"total_bencana": 723,
+		"korban_luka": 7319,
+		"kobran_jiwa": 179,
+		"date": "2023-10-16 04:38:01"
+	},
+	{
+		"wilayah": "Bitung",
+		"total_bencana": 718,
+		"korban_luka": 6043,
+		"kobran_jiwa": 152,
+		"date": "2023-09-15 03:10:54"
+	},
+	{
+		"wilayah": "Palopo",
+		"total_bencana": 617,
+		"korban_luka": 9794,
+		"kobran_jiwa": 155,
+		"date": "2024-04-17 07:31:35"
+	},
+	{
+		"wilayah": "Jayapura",
+		"total_bencana": 674,
+		"korban_luka": 6723,
+		"kobran_jiwa": 178,
+		"date": "2024-07-07 05:38:24"
+	},
+	{
+		"wilayah": "Tidore",
+		"total_bencana": 347,
+		"korban_luka": 9200,
+		"kobran_jiwa": 106,
+		"date": "2023-08-29 03:47:09"
+	},
+	{
+		"wilayah": "Pangkalpinang",
+		"total_bencana": 898,
+		"korban_luka": 3891,
+		"kobran_jiwa": 107,
+		"date": "2023-08-18 04:45:36"
+	},
+	{
+		"wilayah": "Pontianak",
+		"total_bencana": 689,
+		"korban_luka": 5676,
+		"kobran_jiwa": 164,
+		"date": "2025-06-18 07:11:34"
+	},
+	{
+		"wilayah": "Kupang",
+		"total_bencana": 351,
+		"korban_luka": 9830,
+		"kobran_jiwa": 144,
+		"date": "2025-03-19 10:34:03"
+	},
+	{
+		"wilayah": "Palangka Raya",
+		"total_bencana": 991,
+		"korban_luka": 7716,
+		"kobran_jiwa": 86,
+		"date": "2024-02-10 23:31:02"
+	},
+	{
+		"wilayah": "Banjarbaru",
+		"total_bencana": 417,
+		"korban_luka": 3511,
+		"kobran_jiwa": 135,
+		"date": "2024-10-24 23:47:27"
+	},
+	{
+		"wilayah": "Kupang",
+		"total_bencana": 531,
+		"korban_luka": 6399,
+		"kobran_jiwa": 158,
+		"date": "2024-01-30 05:10:48"
+	},
+	{
+		"wilayah": "Tanjung Pinang",
+		"total_bencana": 332,
+		"korban_luka": 4438,
+		"kobran_jiwa": 120,
+		"date": "2024-12-22 09:10:36"
+	},
+	{
+		"wilayah": "Sungai Penuh",
+		"total_bencana": 935,
+		"korban_luka": 3368,
+		"kobran_jiwa": 87,
+		"date": "2024-10-08 00:28:03"
+	},
+	{
+		"wilayah": "Samarinda",
+		"total_bencana": 800,
+		"korban_luka": 4013,
+		"kobran_jiwa": 103,
+		"date": "2024-08-27 20:44:17"
+	},
+	{
+		"wilayah": "Pekanbaru",
+		"total_bencana": 702,
+		"korban_luka": 6211,
+		"kobran_jiwa": 146,
+		"date": "2024-12-14 21:00:45"
+	},
+	{
+		"wilayah": "Banjarbaru",
+		"total_bencana": 365,
+		"korban_luka": 3672,
+		"kobran_jiwa": 113,
+		"date": "2024-03-14 02:11:14"
+	},
+	{
+		"wilayah": "Manokwari",
+		"total_bencana": 707,
+		"korban_luka": 9751,
+		"kobran_jiwa": 144,
+		"date": "2025-04-15 15:37:01"
+	},
+	{
+		"wilayah": "Pasuruan",
+		"total_bencana": 985,
+		"korban_luka": 9725,
+		"kobran_jiwa": 167,
+		"date": "2025-03-22 21:08:29"
+	},
+	{
+		"wilayah": "Serang",
+		"total_bencana": 347,
+		"korban_luka": 3052,
+		"kobran_jiwa": 73,
+		"date": "2024-01-11 14:50:34"
+	},
+	{
+		"wilayah": "Mataram",
+		"total_bencana": 745,
+		"korban_luka": 6487,
+		"kobran_jiwa": 167,
+		"date": "2024-12-20 22:48:23"
+	},
+	{
+		"wilayah": "Bima",
+		"total_bencana": 900,
+		"korban_luka": 4883,
+		"kobran_jiwa": 197,
+		"date": "2025-06-18 09:39:24"
+	},
+	{
+		"wilayah": "Palopo",
+		"total_bencana": 790,
+		"korban_luka": 9354,
+		"kobran_jiwa": 123,
+		"date": "2025-01-09 14:51:30"
+	},
+	{
+		"wilayah": "Ambon",
+		"total_bencana": 725,
+		"korban_luka": 8800,
+		"kobran_jiwa": 52,
+		"date": "2025-06-13 17:20:26"
+	},
+	{
+		"wilayah": "Gorontalo",
+		"total_bencana": 916,
+		"korban_luka": 7737,
+		"kobran_jiwa": 89,
+		"date": "2024-09-19 18:55:29"
+	},
+	{
+		"wilayah": "Manokwari",
+		"total_bencana": 892,
+		"korban_luka": 3167,
+		"kobran_jiwa": 84,
+		"date": "2025-03-26 08:14:50"
+	},
+	{
+		"wilayah": "Samarinda",
+		"total_bencana": 874,
+		"korban_luka": 5159,
+		"kobran_jiwa": 195,
+		"date": "2024-10-06 22:48:55"
+	},
+	{
+		"wilayah": "Tanjung Pinang",
+		"total_bencana": 449,
+		"korban_luka": 8748,
+		"kobran_jiwa": 81,
+		"date": "2024-01-19 14:36:43"
+	},
+	{
+		"wilayah": "Semarang",
+		"total_bencana": 493,
+		"korban_luka": 3849,
+		"kobran_jiwa": 193,
+		"date": "2023-11-19 22:44:27"
+	},
+	{
+		"wilayah": "Metro",
+		"total_bencana": 817,
+		"korban_luka": 5215,
+		"kobran_jiwa": 81,
+		"date": "2023-10-07 06:32:03"
+	},
+	{
+		"wilayah": "Tanjung Pinang",
+		"total_bencana": 911,
+		"korban_luka": 9149,
+		"kobran_jiwa": 136,
+		"date": "2023-12-19 13:47:48"
+	},
+	{
+		"wilayah": "Mamuju",
+		"total_bencana": 344,
+		"korban_luka": 9630,
+		"kobran_jiwa": 140,
+		"date": "2024-10-12 19:16:18"
+	},
+	{
+		"wilayah": "Metro",
+		"total_bencana": 866,
+		"korban_luka": 3343,
+		"kobran_jiwa": 71,
+		"date": "2023-11-06 16:11:01"
+	},
+	{
+		"wilayah": "Banda Aceh",
+		"total_bencana": 984,
+		"korban_luka": 7879,
+		"kobran_jiwa": 112,
+		"date": "2024-06-02 15:30:39"
+	},
+	{
+		"wilayah": "Tanjung Pinang",
+		"total_bencana": 680,
+		"korban_luka": 9488,
+		"kobran_jiwa": 78,
+		"date": "2024-05-11 14:16:44"
+	},
+	{
+		"wilayah": "Banjar",
+		"total_bencana": 973,
+		"korban_luka": 9631,
+		"kobran_jiwa": 94,
+		"date": "2025-06-09 15:26:06"
+	},
+	{
+		"wilayah": "Cimahi",
+		"total_bencana": 454,
+		"korban_luka": 3700,
+		"kobran_jiwa": 180,
+		"date": "2025-02-28 11:46:08"
+	},
+	{
+		"wilayah": "Bontang",
+		"total_bencana": 434,
+		"korban_luka": 5547,
+		"kobran_jiwa": 65,
+		"date": "2024-12-02 02:30:49"
+	}
+]
